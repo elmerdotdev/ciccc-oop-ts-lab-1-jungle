@@ -91,7 +91,10 @@ Snake's energy: 50
 Remaining animals with energy: 3
 
 --- Eating ---
-Eagle eats and gains energy! Eagle's energy: 90
-Lion eats and gains energy! Lion's energy: 150
-Snake eats and gains energy! Snake's energy: 65 
+Eagle eats and gains energy!  
+Eagle's energy: 90  
+Lion eats and gains energy!
+Lion's energy: 150
+Snake eats and gains energy!
+Snake's energy: 65 
 ```
