@@ -80,18 +80,18 @@ Name: Eagle, Species: Bird of Prey, Can Fly: true
 Name: Lion, Species: Big Cat, Fur Color: Golden  
 Name: Snake, Species: Serpent, Cold-Blooded: true  
 
---- Attacks ---  
-Eagle swoops in to attack Lion!  
-Lion's energy: 150  
-Eagle's energy: 80  
-Lion lunges to attack Snake!  
-Snake's energy: 50  
-Lion's energy: 100  
+--- Attacks ---
+Eagle swoops in to attack Lion!
+Eagle's energy: 80
+Lion's energy: 180
+Lion lunges to attack Snake!
+Lion's energy: 130
+Snake's energy: 50
 
-Remaining animals with energy: 3  
+Remaining animals with energy: 3
 
---- Eating ---  
-Eagle eats and gains energy! Eagle's energy: 90  
-Lion eats and gains energy! Lion's energy: 110  
-Snake eats and gains energy! Snake's energy: 60  
+--- Eating ---
+Eagle eats and gains energy! Eagle's energy: 90
+Lion eats and gains energy! Lion's energy: 150
+Snake eats and gains energy! Snake's energy: 65 
 ```
