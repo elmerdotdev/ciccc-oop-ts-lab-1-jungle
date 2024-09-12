@@ -75,6 +75,7 @@
 
 ## Console output example
 
+```bash
 Name: Eagle, Species: Bird of Prey, Can Fly: true  
 Name: Lion, Species: Big Cat, Fur Color: Golden  
 Name: Snake, Species: Serpent, Cold-Blooded: true  
@@ -93,3 +94,4 @@ Remaining animals with energy: 3
 Eagle eats and gains energy! Eagle's energy: 90  
 Lion eats and gains energy! Lion's energy: 110  
 Snake eats and gains energy! Snake's energy: 60  
+```
